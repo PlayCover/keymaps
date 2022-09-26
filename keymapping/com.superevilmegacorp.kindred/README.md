@@ -2,6 +2,7 @@
 
 ## Vainglory keymapping
 _A keymap made by amirsaam#3579_
+Created on a 16:10 Aspect Ratio
 
 **Tap Controls** (Recommended)
 You need to disable Mouse Mapping in Vainglory's App Preferences inside PlayCover
