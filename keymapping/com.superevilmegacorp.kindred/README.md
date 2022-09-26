@@ -9,9 +9,9 @@ You need to disable Mouse Mapping in Vainglory's App Preferences inside PlayCove
 - Move = Controlled with Mouse clicks
 - Camera = Locked to Hero (default), you can unlock at in game and drag camera with (left) click and hold
 - Attack = Controlled with Mouse Clicks
-- A Ability = Q
-- B Ability = W
-- Ultimate = E
+- A Ability = Q (Choose target with Mouse Click)
+- B Ability = W (Choose target with Mouse Click)
+- Ultimate = E (Choose target with Mouse Click)
 - Upgrading Abilities = Controlled with Mouse Clicks
 - Healing Flask = D
 - Scout Cam = F
