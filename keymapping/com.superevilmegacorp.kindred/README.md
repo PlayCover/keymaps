@@ -4,6 +4,7 @@
 _A keymap made by amirsaam#3579_
 Created on a 16:10 Aspect Ratio
 
+
 **Tap Controls** (Recommended)
 You need to disable Mouse Mapping in Vainglory's App Preferences inside PlayCover
 - Move = Controlled with Mouse clicks
@@ -24,6 +25,7 @@ You need to disable Mouse Mapping in Vainglory's App Preferences inside PlayCove
 - Scoreboard = Tab
 - Shop = S
 - Quickbuy = B
+
 
 **Joystick Controls** (Not Recommended)
 Keys marked with * are draggable buttons, so you may or may not (based on heroes' abilities) need to choose target with mouse movement after you press and hold those buttons.
