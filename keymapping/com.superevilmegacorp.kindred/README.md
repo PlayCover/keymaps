@@ -29,7 +29,7 @@ You need to disable Mouse Mapping in Vainglory's App Preferences inside PlayCove
 - Quickbuy = B
   
 **Joystick Controls** (Not Recommended)  
-Keys marked with * are draggable buttons, so you may or may not (based on heroes' abilities) need to choose target with mouse movement after you press and hold those buttons.  
+Keys marked with `*` are draggable buttons, so you may or may not (based on heroes' abilities) need to choose target with mouse movement after you press and hold those buttons.  
 For In-Menu times you should press Option key to toggle Mouse Pointer
 - Move = Mouse Area
 - Camera = Locked to Hero
