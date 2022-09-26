@@ -1,10 +1,13 @@
 # Vainglory
-
+Vainglory was the very first cross-platform MOBA developed by Super Evil Mega Corp and has been named Leagues of Legends and DotA 2 of mobile platform.  
+- The game that was featured in iPhone 6 & 6 Plus launch video in 2014
+- Has won Apple Design Award in 2015
+  
 ## Vainglory keymapping
 _A keymap made by amirsaam#3579_  
-Created on a 16:10 Aspect Ratio
-
-**Tap Controls** (Recommended)
+Created on a 16:10 Aspect Ratio  
+  
+**Tap Controls** (Recommended)  
 You need to disable Mouse Mapping in Vainglory's App Preferences inside PlayCover
 - Move = Controlled with Mouse clicks
 - Camera = Locked to Hero (default), you can unlock at in game and drag camera with (left) click and hold
@@ -24,9 +27,9 @@ You need to disable Mouse Mapping in Vainglory's App Preferences inside PlayCove
 - Scoreboard = Tab
 - Shop = S
 - Quickbuy = B
-
-**Joystick Controls** (Not Recommended)
-Keys marked with * are draggable buttons, so you may or may not (based on heroes' abilities) need to choose target with mouse movement after you press and hold those buttons.
+  
+**Joystick Controls** (Not Recommended)  
+Keys marked with * are draggable buttons, so you may or may not (based on heroes' abilities) need to choose target with mouse movement after you press and hold those buttons.  
 For In-Menu times you should press Option key to toggle Mouse Pointer
 - Move = Mouse Area
 - Camera = Locked to Hero
@@ -50,3 +53,4 @@ For In-Menu times you should press Option key to toggle Mouse Pointer
 - Scoreboard = Tab
 - Shop = S
 - Quickbuy = B
+  
