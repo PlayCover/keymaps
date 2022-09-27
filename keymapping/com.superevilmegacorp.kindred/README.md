@@ -9,7 +9,8 @@ Created on a 16:10 Aspect Ratio
   
 **Tap Controls** (Recommended)  
   
-_You need to disable Mouse Mapping in Vainglory's App Preferences inside PlayCover._
+_To use this keymap properly you need to disable Mouse Mapping in Vainglory's App Preferences inside PlayCover._
+Note: To cancel the action that require targets, you can simply press the key again. 
 - Move = Controlled with Mouse clicks
 - Camera = Locked to Hero (default), you can unlock at in game and drag camera with (left) click and hold
 - Attack = Controlled with Mouse Clicks
