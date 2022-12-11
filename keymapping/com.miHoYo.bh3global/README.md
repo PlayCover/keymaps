@@ -1,7 +1,7 @@
 # Honkai Impact 3rd
 
 ## Honkai Impact 3rd fixed
-Similar to the better Genshin inspired keymap, adds some important missing interaction buttons. 
+Similar to the better Genshin inspired keymap, adds some important missing interaction buttons. Made for 16:10 displays, for other aspect ratios you will need to press <kbd>Command</kbd>+<kbd>K</kbd> in-game to manually move keymaps into position. 
 
 ### Movement
 - <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> - Basic movement controls
@@ -25,6 +25,8 @@ Similar to the better Genshin inspired keymap, adds some important missing inter
 - <kbd>J</kbd> - Quest menu in some newer areas, opens missions on bridge 
 - <kbd>M</kbd> - Home/take screenshot/opens map in some newer areas
 - <kbd>Tab</kbd> - Toggles between teammate HP and damage scoreboard in co-op
+
+Made by [FlyMeToTheMoonAndLetMePlayAmongTheStars](https://github.com/FlyMeToTheMoonAndLetMePlayAmongTheStars)
 ___
 
 ## Honkai keymapping
