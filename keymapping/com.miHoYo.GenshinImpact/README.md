@@ -1,5 +1,50 @@
 # Genshin Impact
 
+## Genshin Impact fixed 
+Fixes the slow gliding speed problem present in other keymaps plus adds controls for more game buttons. Made for 16:10 displays, for other aspect ratios you will need to press <kbd>Command</kbd>+<kbd>K</kbd> in-game to manually move keymaps into position.
+
+### Movement 
+- <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> - Main movement controls  
+- <kbd>Up</kbd><kbd>Down</kbd><kbd>Left</kbd><kbd>Right</kbd> - Movement controls for teapot 
+- <kbd>Space</kbd> - Jump
+- <kbd>Mouse</kbd> - Pans the camera 
+- <kbd>X</kbd><kbd>Left Mouse</kbd> - Drop down from climbing 
+- <kbd>Left Control</kbd> - Switch between running/walking if you have the setting enabled
+
+### Combat
+- <kbd>Left Mouse</kbd> - Normal attack, hold for charged attack
+- <kbd>Left Shift</kbd><kbd>Right Mouse</kbd> - Dodge, hold for sprint
+- <kbd>E</kbd> - Elemental skill
+- <kbd>Q</kbd> - Elemental burst
+- <kbd>1</kbd><kbd>2</kbd><kbd>3</kbd><kbd>4</kbd> - Switch to other characters, in co-op with 2 players, you can press <kbd>3</kbd> to switch to your other character. <kbd>4</kbd> is for teams with 5 characters. 
+- <kbd>H</kbd> - Break free from being frozen 
+- <kbd>L</kbd> - Shoot bow while in aiming mode
+
+### Exploration   
+- <kbd>M</kbd> - World map
+- <kbd>Tab</kbd> - Elemental Sight
+- <kbd>T</kbd> - Use those grappling hook thingys in Sumeru or those electric thingys in Inazuma (I forgot what they're called)
+- <kbd>R</kbd> - Go into bow aiming mode 
+- <kbd>Z</kbd> - Use gadget 
+- <kbd>F</kbd><kbd>G</kbd> - Pick up drops/interact with NPCs 
+
+### Menus
+- <kbd>Enter</kbd> - Opens chat
+- <kbd>Esc</kbd> - Pause game
+- <kbd>N</kbd> - Opens info pop-up in domain/event stages
+- <kbd>J</kbd> - Quest menu
+- <kbd>V</kbd> - Quest marker 
+- <kbd>Y</kbd> - Co-op menu
+- <kbd>U</kbd> - Events
+- <kbd>I</kbd> - Battle Pass
+- <kbd>O</kbd> - Wish 
+- <kbd>P</kbd> - Adventurer Handbook
+- <kbd>B</kbd> - Inventory
+- <kbd>C</kbd> - Character menu/close button in some menus 
+
+Made by [FlyMeToTheMoonAndLetMePlayAmongTheStars](https://github.com/FlyMeToTheMoonAndLetMePlayAmongTheStars)
+___
+
 ## Genshin Impact keymapping
 A keymap made by PianothShaveck#5009.
 
