@@ -1,7 +1,7 @@
 # Genshin Impact
 
 ## Genshin Impact fixed 
-Fixes the slow gliding speed problem present in other keymaps plus adds controls for more game buttons. Made for 16:10 displays, for other aspect ratios you will need to press <kbd>Command</kbd>+<kbd>K</kbd> in-game to manually move keymaps into position.
+Fixes the slow gliding speed problem present in other keymaps plus adds controls for more game buttons. Available for 16:10 and 16:9 displays, for other aspect ratios you will need to press <kbd>Command</kbd>+<kbd>K</kbd> in-game to manually move keymaps into position.
 
 ### Movement 
 - <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> - Main movement controls  
