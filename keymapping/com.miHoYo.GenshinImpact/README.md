@@ -76,5 +76,12 @@ Lyre only keymappings
 - a-j bass
 ___
 
+## Controller_start_16.9_16.10
+A keymap that enables starting the game with a controller from the very start.
+
+Press A/X or B/O twice to get past the door. Press RB/R1, RT/R2, LB/L1 and LT/L2 to switch the control type to controller.
+
+It is reccomended to use this keymap with mouse mapping disabled. Both 16:9 and 16:10 aspect ratios are supported.
+
 ## GI-3.3 PC-1.1.1
 Backwards compatible keymap made for legacy versions of PlayCover (1.1.1 and older), tested to work properly as of Genshin Impact patch 3.3

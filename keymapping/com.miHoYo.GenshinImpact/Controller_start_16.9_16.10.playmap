@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleIdentifier</key>
+	<string>com.miHoYo.GenshinImpact</string>
+	<key>buttonModels</key>
+	<array>
+		<dict>
+			<key>keyCode</key>
+			<integer>-10</integer>
+			<key>keyName</key>
+			<string>Button B</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.50044962565104167</real>
+				<key>yCoord</key>
+				<real>0.48953993055555556</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>-10</integer>
+			<key>keyName</key>
+			<string>Right Shoulder</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.040443921089172365</real>
+				<key>yCoord</key>
+				<real>0.062038746586552375</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>-10</integer>
+			<key>keyName</key>
+			<string>Right Trigger</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>6.1728395061728403</real>
+				<key>xCoord</key>
+				<real>0.030753296392935291</real>
+				<key>yCoord</key>
+				<real>0.77764121161566824</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>-10</integer>
+			<key>keyName</key>
+			<string>Left Shoulder</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.85937422911326089</real>
+				<key>yCoord</key>
+				<real>0.24678764343261719</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>-10</integer>
+			<key>keyName</key>
+			<string>Left Trigger</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>6.1728395061728403</real>
+				<key>xCoord</key>
+				<real>0.87011073253772875</real>
+				<key>yCoord</key>
+				<real>0.34966187653718178</real>
+			</dict>
+		</dict>
+	</array>
+	<key>draggableButtonModels</key>
+	<array/>
+	<key>joystickModel</key>
+	<array/>
+	<key>mouseAreaModel</key>
+	<array/>
+	<key>version</key>
+	<string>2.0.0</string>
+</dict>
+</plist>
