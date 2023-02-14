@@ -6,10 +6,10 @@ If you want to contribute by adding keymaps, export your keymapping and add a fo
 **The aspect ratio of your keymap must be stated (16:10, 16:9, etc).**
 
 ## How to download keymaps
-To download all the keymaps in this repository, [click here](https://github.com/PlayCover/keymaps/archive/refs/heads/master.zip). Or go to the [keymap repository](https://github.com/PlayCover/keymaps) homepage, click on code (the big green button), then click on download ZIP. 
+To download all the legacy (1.1.1) keymaps in this repository, [click here](https://github.com/PlayCover/keymaps/archive/refs/heads/legacy_1.1.1.zip). Or go to the [keymap repository](https://github.com/PlayCover/keymaps/tree/legacy_1.1.1/keymapping) homepage, click on code (the big green button), then click on download ZIP. 
 
 ### To download an individual keymap file: 
-1. Choose a folder that matches the game keymap you want [listed here](https://github.com/PlayCover/keymaps/tree/master/keymapping)
+1. Choose a folder that matches the game keymap you want [listed here](https://github.com/PlayCover/keymaps/tree/legacy_1.1.1/keymapping)
 2. In the folder, you can choose from a list of available keymaps to get
 3. Click on the keymap you want from the list
 4. Click on **Raw** 
