@@ -1,4 +1,4 @@
-**Aspect Ratio: 16:10**
+**Aspect Ratio: 16:9**
 
 ## Outside of battle:
 - WASD to move
