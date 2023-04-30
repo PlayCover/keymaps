@@ -1,5 +1,7 @@
 **Aspect Ratio: 16:9**
 
+This keymap is for those who want to play Honkai: Star Rail using Xbox Gaming Controllers. The mapping is based on Genshin Impact, which means the keys are similar to the ones you were used to in Genshin Impact.
+
 ## Outside of battle:
 - Left Thumbstick: Movement
 - Right Thumbstick: Screen
