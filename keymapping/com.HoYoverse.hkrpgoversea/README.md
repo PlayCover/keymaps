@@ -36,4 +36,4 @@ Made by PianothShaveck#5009
 
 ## Xbox controller keymap
 
-Honkai: Star Rail now officially supports game controllers. The use of keymap is depercated. If you still wanted to access it, visit [commit `9128161`](https://github.com/PlayCover/keymaps/commit/9128161e00822958f618e2f4065d7293be6cb1a3).
+Honkai: Star Rail now officially supports game controllers. The use of keymap is deprecated. If you still wanted to access it, visit [commit `9128161`](https://github.com/PlayCover/keymaps/commit/9128161e00822958f618e2f4065d7293be6cb1a3).
