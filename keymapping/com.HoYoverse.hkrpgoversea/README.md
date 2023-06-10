@@ -30,35 +30,10 @@
 ### In battle:
 You can technically do everything with mouse, but I added keymapping so the mouse is only needed to choose the enemy to attack (you do not need to press alt to select enemy, just move the mouse left/right towards the enemy you want to attack)
 - Q / E to switch between basic ATK and skill. You can also press the left mouse button to use the basic ATK. If you hold Q or E, you'll also be able to read a description. I've placed Q / E precisely, so this position also works for characters with 2 different ULT (the main character). For characters with only 1 ULT, you can press either Q or E.
-- 7 8 9 0 to use any ULT that are ready among the 4 characters you have. 
+- 7 8 9 0 to use any ULT that are ready among the 4 characters you have.
 
 Made by PianothShaveck#5009
 
 ## Xbox controller keymap
-**Aspect Ratio: 16:9**
 
-This keymap is for those who want to play Honkai: Star Rail using Xbox Gaming Controllers. The mapping is based on Genshin Impact, which means the keys are similar to the ones you were used to in Genshin Impact.
-
-### Outside of battle:
-- Left Thumbstick: Movement
-- Right Thumbstick: Screen
-- Button X: Interact with NPCs or entities
-- Direction Pad: Choose charactors
-- Right Shoulder: Sprint
-- Left Shoulder: Gadgets (Treasure map/stuff finder)
-- Right Trigger: Technique
-- Button B: Normal Attack
-- Button A: Dummy button (can be used with right thumbstick to zoom)
-- Options Button: Instant message from NPCs
-- Menu Button: The Phone ("Paimon menu")
-
-
-### In battle:
-- Button B: Normal Attack/Normal Ultimate
-- Right Trigger: Skill/Ranged Ultimate
-
-### Notes
-- Attack targets have to be selected by mouse. Ultimates have to be fired by mouse.
-- DO NOT TOUCH LEFT THUMBSTICK DURING A BATTLE, otherwise the Ultimate of the first charactor may be accidently used.
-
-Made by 1F616EMO#9021
+Honkai: Star Rail now officially supports game controllers. The use of keymap is deprecated. If you still wanted to access it, visit [commit `9128161`](https://github.com/PlayCover/keymaps/commit/9128161e00822958f618e2f4065d7293be6cb1a3).
