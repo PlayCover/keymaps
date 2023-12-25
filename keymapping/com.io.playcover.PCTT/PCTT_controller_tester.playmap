@@ -16,9 +16,9 @@
 				<key>size</key>
 				<real>5</real>
 				<key>xCoord</key>
-				<real>0.59</real>
+				<real>0.58999999999999997</real>
 				<key>yCoord</key>
-				<real>0.42</real>
+				<real>0.41999999999999998</real>
 			</dict>
 		</dict>
 		<dict>
@@ -31,7 +31,7 @@
 				<key>size</key>
 				<real>5</real>
 				<key>xCoord</key>
-				<real>0.54</real>
+				<real>0.54000000000000004</real>
 				<key>yCoord</key>
 				<real>0.5</real>
 			</dict>
@@ -46,7 +46,7 @@
 				<key>size</key>
 				<real>5</real>
 				<key>xCoord</key>
-				<real>0.64</real>
+				<real>0.64000000000000001</real>
 				<key>yCoord</key>
 				<real>0.5</real>
 			</dict>
@@ -61,9 +61,9 @@
 				<key>size</key>
 				<real>5</real>
 				<key>xCoord</key>
-				<real>0.59</real>
+				<real>0.58999999999999997</real>
 				<key>yCoord</key>
-				<real>0.58</real>
+				<real>0.57999999999999996</real>
 			</dict>
 		</dict>
 		<dict>
@@ -201,6 +201,66 @@
 				<real>0.51070976257324219</real>
 			</dict>
 		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>-10</integer>
+			<key>keyName</key>
+			<string>Direction Pad Left</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.1782960669</real>
+				<key>yCoord</key>
+				<real>0.5</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>-10</integer>
+			<key>keyName</key>
+			<string>Direction Pad Right</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.279694217</real>
+				<key>yCoord</key>
+				<real>0.5</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>-10</integer>
+			<key>keyName</key>
+			<string>Direction Pad Up</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.2301970815</real>
+				<key>yCoord</key>
+				<real>0.41999999999999998</real>
+			</dict>
+		</dict>
+		<dict>
+			<key>keyCode</key>
+			<integer>-10</integer>
+			<key>keyName</key>
+			<string>Direction Pad Down</string>
+			<key>transform</key>
+			<dict>
+				<key>size</key>
+				<real>5</real>
+				<key>xCoord</key>
+				<real>0.2301970815</real>
+				<key>yCoord</key>
+				<real>0.57999999999999996</real>
+			</dict>
+		</dict>
 	</array>
 	<key>draggableButtonModels</key>
 	<array/>
@@ -255,3 +315,4 @@
 	<string>2.0.0</string>
 </dict>
 </plist>
+
