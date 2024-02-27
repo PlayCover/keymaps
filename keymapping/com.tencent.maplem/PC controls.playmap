@@ -113,11 +113,11 @@
 			<key>transform</key>
 			<dict>
 				<key>size</key>
-				<real>20</real>
+				<real>13.122000000000007</real>
 				<key>xCoord</key>
-				<real>0.16481130123138413</real>
+				<real>0.164742604891459</real>
 				<key>yCoord</key>
-				<real>0.76990609345612671</real>
+				<real>0.76347177293565494</real>
 			</dict>
 			<key>upKeyCode</key>
 			<integer>26</integer>
