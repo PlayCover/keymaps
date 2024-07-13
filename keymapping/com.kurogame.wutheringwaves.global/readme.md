@@ -27,6 +27,7 @@
 - E -> Skill (pre-mapped)<br />
 - R -> Ultimate (pre-mapped)<br />
 - L shift -> Sprint (pre-mapped)<br />
+- T -> Utility (hold for wheel) (pre-mapped)<br />
 
 What are pre-mapped keys?
 Since Wuthering Waves has in-built partial keyboard and mouse support, these keys have already been mapped by Kuro games. For your convenience, we have added these keys in the keymap as well, but removing these keys will not affect your gameplay. 
