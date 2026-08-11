@@ -229,7 +229,7 @@
 		</dict>
 		<dict>
 			<key>keyCode</key>
-			<integer>-2</integer>
+			<integer>225</integer>
 			<key>transform</key>
 			<dict>
 				<key>size</key>
